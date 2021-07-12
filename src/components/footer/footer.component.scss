@@ -1,0 +1,51 @@
+.footer {
+    background-color: #2D314D !important;
+    height          : 11.5rem;
+    padding-top     : 2.8rem;
+    margin-left     : 0;
+    margin-right    : 0;
+    padding-left    : 0;
+    padding-right   : 0;
+    width           : 100%;
+
+    .btn-link {
+        color : #FAFAFA !important;
+        height: 1.25rem;
+        width : 1.25rem;
+
+        &:hover {
+            color: #30C88F !important;
+
+        }
+    }
+
+    .text-white {
+        color      : #FFFFFF;
+        font-size  : 0.9rem;
+        font-weight: 400;
+
+        &:hover {
+            color          : #30C88F !important;
+            text-decoration: none;
+        }
+    }
+
+    .btn-cont {
+        margin-left: 0.6rem;
+
+        .rights-text {
+            font-size  : 0.8rem;
+            color      : #9092A1;
+            margin-top : 1.25rem;
+            margin-left: 6.9rem;
+        }
+    }
+
+    .links-text {
+        margin-left: 2.4rem;
+    }
+
+    .link-footer {
+        margin-bottom: 0.6rem;
+    }
+}
