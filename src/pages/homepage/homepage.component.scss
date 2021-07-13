@@ -1,0 +1,75 @@
+.homepage {
+    margin-left  : 165px;
+    margin-bottom: 105px;
+
+    .text-container {
+        margin-top  : 160px;
+        width       : 450px;
+        margin-right: 20px;
+
+        .title {
+            font-size: 56px;
+        }
+
+        .description {
+            font-size  : 18px;
+            line-height: 1.5;
+            color      : #9597A5;
+        }
+
+        .btn-box button {
+            margin: 0 !important;
+        }
+    }
+
+    .col-flex {
+        margin-bottom: 25px;
+    }
+
+    .image-container {
+        max-height: 900px;
+    }
+
+    .mobile-image {
+        z-index: 10;
+    }
+
+    .second-desc {
+        max-width    : 640px;
+        margin-bottom: 40px;
+
+        h1 {
+            font-size    : 40px;
+            line-height  : 1.6;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size  : 18px;
+            color      : #9597A5;
+            line-height: 1.5;
+        }
+    }
+
+    .service-cont {
+        background-color: #F4F5F7;
+        margin-bottom   : 100px;
+        width: 1140px;
+
+    }
+
+    .article-cont {
+        display        : flex;
+        justify-content: space-around;
+    }
+
+    .article-head {
+        font-size    : 40px;
+        color        : #2D314D;
+        line-height  : 1.6;
+        margin-bottom: 30px;
+    }
+
+    // Last section
+
+}
