@@ -10,5 +10,4 @@ Zoom effect
 ![Screenshot from 2021-07-13 04-24-42](https://user-images.githubusercontent.com/74497930/125376426-a3a30680-e393-11eb-8947-f2f0ff7253e4.png)
 
 ![Screenshot from 2021-07-13 04-24-44](https://user-images.githubusercontent.com/74497930/125376435-a867ba80-e393-11eb-9b46-808db32237a6.png)
-[classfile.txt](https://github.com/ivanovWGR/EasyBank-design-train/files/6805305/classfile.txt)
-[useefect.txt](https://github.com/ivanovWGR/EasyBank-design-train/files/6805306/useefect.txt)
+
