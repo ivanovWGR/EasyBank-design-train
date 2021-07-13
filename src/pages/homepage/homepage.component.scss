@@ -1,5 +1,6 @@
 .homepage {
-    margin-left: 165px;
+    margin-left  : 165px;
+    margin-bottom: 105px;
 
     .text-container {
         margin-top  : 160px;
@@ -53,7 +54,13 @@
     .service-cont {
         background-color: #F4F5F7;
         margin-bottom   : 100px;
+        width: 1140px;
 
+    }
+
+    .article-cont {
+        display        : flex;
+        justify-content: space-around;
     }
 
     .article-head {
