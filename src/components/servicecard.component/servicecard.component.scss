@@ -1,0 +1,22 @@
+.card {
+    width       : 14rem;
+    margin-right: 30px;
+    border      : none;
+
+    img {
+        width : 72px;
+        height: 72px;
+    }
+
+    h5 {
+        line-height: 1.2;
+        font-size  : 24px;
+        color      : #2D314D;
+    }
+
+    p {
+        font-size  : 14px;
+        color      : #9597A5;
+        line-height: 1.6;
+    }
+}
